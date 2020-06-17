@@ -29,7 +29,7 @@ $(".btn").click(function(){
   checkUserAnswer(userClickSeq.length - 1);
 })
 
-// Generates the number of the next button to press.
+// Generates the next button to press.
 function nextLevel(){
   // increments level count and display that level title at top of the game
   curLevel++;

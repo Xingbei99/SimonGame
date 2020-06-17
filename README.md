@@ -6,9 +6,13 @@ Rules: https://www.ultraboardgames.com/simon/game-rules.php#:~:text=Press%20the%
 Playing the game: https://xingbei99.github.io/SimonGame/
 
 Features:
+
 • Handles the cases of game start, game over and game restart.
+
 • Checks if the user rebuilds the given pattern through button clicks.
+
 • Realizes and adapts to level changes.
+
 • Adds animation and sounds!
 
 In this project, I was responsible for implementing all these features with jQuery in game.js.

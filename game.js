@@ -52,7 +52,7 @@ function playSound(colorName){
   colorSound.play();
 }
 
-// When we press a button, the button displays a shadow lasting for 200 ms.
+// The button displays a shadow lasting for 200 ms when user presses a button.
 function animateButtonPress(colorName){
   $("#" + colorName).addClass("pressed");
   // remove the shadow with a delay of 200ms.
